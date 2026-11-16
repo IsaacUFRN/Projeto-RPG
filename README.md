@@ -3,6 +3,8 @@
 ## OBSERVACAO! ##
 Este projeto foi construido com os conhecimentos adquiridos em sala de aula + auxilio de inteligencia artificial. Divirta-se!
 
+## GITHUB: https://github.com/IsaacUFRN/Projeto-RPG.git
+
 ## 1. IDENTIFICACAO
 
 - Aluno: Isaac Bruno do Vale Souza
