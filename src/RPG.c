@@ -59,7 +59,7 @@ int main() {
     }
 
     printf("\n==================================================\n");
-    printf("                PARABENSIZACOE!                  \n");
+    printf("                PARABENSIZACOES!                  \n");
     printf("==================================================\n");
     printf(" Voce derrotou o mal ancestral, sobreviveu a mansao\n");
     printf(" e conquistou a vitoria final com sucesso!\n");

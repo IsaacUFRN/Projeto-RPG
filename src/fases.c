@@ -87,7 +87,6 @@ void criarFases(Fase fases[]) {
     fases[2].monstros[2].nivel = 10;
     fases[2].monstros[2].experiencia = 180;
 
-    // Tabuleiros das tres fases
     for(int f = 0; f < 3; f++) {
 
         fases[f].tabuleiro[0] = CASA_VAZIA;

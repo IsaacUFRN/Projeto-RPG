@@ -55,7 +55,7 @@ int combater(Personagem *p, Monstro *m) {
                 printf("-> O golpe foi amortecido! Voce sofreu apenas %d de dano.\n", danoRecebido);
                 continue;
 
-            case 3: // Usar Poção de Cura
+            case 3: 
                 if (p->pocoes > 0) {
                     if (p->vida == p->vidaMaxima) {
                         printf("\n-> Sua vida ja esta no maximo!\n");

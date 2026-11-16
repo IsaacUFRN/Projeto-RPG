@@ -64,7 +64,7 @@ void receberDano(Personagem *p, int dano) {
     if (p->vida <= 0) {
         if (strcmp(p->classe, "Ocultista") == 0 && p->habilidadeReviverUsada == 0) {
             p->habilidadeReviverUsada = 1;
-            p->vida = p->vidaMaxima / 2; // Revive com metade da vida máxima
+            p->vida = p->vidaMaxima / 2; 
             printf("\n==================================================\n");
             printf("         PACTO SOMBRIO ATIVADO!                   \n");
             printf("==================================================\n");
